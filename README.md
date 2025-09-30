@@ -1,6 +1,6 @@
 this is .env
-TELEGRAM_TOKEN=8332314310:AAE_q5SXBvURjbhf6r-FQTf4pL7IuJLEBz4
-GEMINI_API_KEY=AIzaSyAVauH9C3gC4T2RgOxNK3ze0CkxMshhBhI
+TELEGRAM_TOKEN=
+GEMINI_API_KEY=
 
 1. First in terminal- Setup virtual Environment
    # Windows
